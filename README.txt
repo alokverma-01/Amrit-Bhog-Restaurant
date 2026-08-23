@@ -1,5 +1,5 @@
-AMRIT BHOG — RESTAURANT WEBSITE DEMO
-=====================================
+AMRIT BHOG — RESTAURANT WEBSITE 
+===============================
 
 Included:
 - Responsive single-page restaurant website
@@ -26,13 +26,3 @@ Public listing information used for this demo:
 - Public rating: about 4.1/5
 - Price indication: about ₹1–₹200 per person
 - Publicly mentioned favourites include samosa, special dosa, chole bhature, paneer burger, manchurian, chowmein and french fries.
-
-Before production:
-1. Get written approval from the restaurant for use of photos/reviews/logo.
-2. Replace third-party/public listing photos with the restaurant's own high-resolution photos.
-3. Confirm the complete current menu and exact prices.
-4. Confirm delivery radius, delivery charge, payment method and order process.
-5. Replace the WhatsApp number if the owner gives a different business number.
-6. If the client wants online payments, live order management or an admin panel, add a backend/database and payment provider.
-
-Open index.html in a browser to preview.
